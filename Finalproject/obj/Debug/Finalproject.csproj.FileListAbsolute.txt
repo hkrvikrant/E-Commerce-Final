@@ -1,0 +1,11 @@
+E:\consol\consol\Finalproject\Finalproject\bin\Debug\Finalproject.exe.config
+E:\consol\consol\Finalproject\Finalproject\bin\Debug\Finalproject.exe
+E:\consol\consol\Finalproject\Finalproject\bin\Debug\Finalproject.pdb
+E:\consol\consol\Finalproject\Finalproject\bin\Debug\Dll_practice.dll
+E:\consol\consol\Finalproject\Finalproject\bin\Debug\Dll_practice.pdb
+E:\consol\consol\Finalproject\Finalproject\obj\Debug\Finalproject.csprojResolveAssemblyReference.cache
+E:\consol\consol\Finalproject\Finalproject\obj\Debug\Finalproject.exe
+E:\consol\consol\Finalproject\Finalproject\obj\Debug\Finalproject.pdb
+E:\SOFTWARE\project\DOT NET\my_project\my_project\Finalproject\Finalproject\bin\Debug\Finalproject.exe.config
+E:\SOFTWARE\project\DOT NET\my_project\my_project\Finalproject\Finalproject\obj\Debug\Finalproject.exe
+E:\SOFTWARE\project\DOT NET\my_project\my_project\Finalproject\Finalproject\obj\Debug\Finalproject.pdb
